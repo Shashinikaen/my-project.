@@ -1,5 +1,7 @@
-value=20
+from car import car
+
+car = car("A")
 
 print("hello")
 
-print(value)
+print(car)
